@@ -1,3 +1,5 @@
+This README is made with AI
+
 🔐 Python Account Login System
 A simple command-line account creation and login system built with Python. This program lets users create an account with a username and password, then log in using those saved credentials. It's a great beginner project for learning about file handling, functions, input validation, and loops in Python.
 
