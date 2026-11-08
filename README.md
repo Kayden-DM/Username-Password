@@ -15,7 +15,6 @@ Missing File Handling — Uses try/except FileNotFoundError so account creation 
 Menu Loop — Runs until the user selects option 3 to exit.
 
 ## Technologies Used
-text
 | Technology | Purpose |
 |---|---|
 | Python | Application logic |
